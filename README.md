@@ -1,7 +1,3 @@
-
-
-## Professional Summary
-
 Systems engineer with ten years of experience supporting digital services, information technology infrastructure, and the product development lifecycle.
 
 Experienced systems architect, developing functional and logical models for software and hardware components within complex systems.
