@@ -1,13 +1,17 @@
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+## Professional Summary
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Systems engineer with ten years of experience supporting digital services, information technology infrastructure, and the product development lifecycle.
 
-## Another great heading (h2)
+Experienced systems architect, developing functional and logical models for software and hardware components within complex systems.
+Strong expertise in requirement derivation, specification development and management, and technical documentation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Experience leading cross-functional teams in the development, integration, and delivery of software solutions.
 
-### Some great subheading (h3)
+Leads the adoption of model-based methods, tools, and processes.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+### What characteristics will I bring to your team?
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+- Dedicated and driven teammate with a passion for learning.
+- Holistic systems thinker with a detail-oriented architectural focus throughout the entire system development lifecycle.
+- Enthusiastic collaborator who is ever-curious. Analytical and critical thinker who aspires to continue seeking new challenges.
+- Experience working internationally and leading collaborative efforts with global teams.
