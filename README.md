@@ -24,7 +24,7 @@ The focus of my graduate capstone project was a systems engineering analysis of 
 This project was largely inspired by the LEGO Group building a new production facility in Virginia, as well as my experience working in a manufacturing environment.
 
 [An article published by JHU about my graduate project can be found here](https://ep.jhu.edu/news/enabling-customized-brick-creations/). 
-</br>
+
 <a href="https://ep.jhu.edu/news/enabling-customized-brick-creations"><img src="assets/custom-brick.png" width=550 > 
 
 <img src="assets/LEGO1.jpg" width=200> <img src="assets/LEGO_Character.jpg" width=200>
