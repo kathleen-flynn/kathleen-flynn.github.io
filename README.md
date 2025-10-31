@@ -50,7 +50,7 @@ My Bachelor of Science in Information Technology is from Rensselaer Polytechnic 
 
 <img src="assets/kayak.png" width=280> <img src="assets/bike.png" width=175> <img src="assets/hike.png" width=280>
 
-<br></br>
+
 <a href="https://carolinatails.org/pet-star-search/" target="_blank">My dog Mulligan was featured in "Carolina Tails," a Charleston Animal Society Publication.</a>
 <a href="https://carolinatails.org/pet-star-search/"><img src="assets/mulligan.png" width=750>
 
