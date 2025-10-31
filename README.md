@@ -23,7 +23,7 @@ The focus of my graduate capstone project was a systems engineering analysis of 
 
 This project was largely inspired by the LEGO Group building a new production facility in Virginia, as well as my experience working in a manufacturing environment.
 
-[An article published by JHU about my graduate project can be found here](https://ep.jhu.edu/news/enabling-customized-brick-creations/). 
+<a href="https://ep.jhu.edu/news/enabling-customized-brick-creations/" target="_blank">An article published by JHU about my graduate project can be found here.</a>
 
 <a href="https://ep.jhu.edu/news/enabling-customized-brick-creations"><img src="assets/custom-brick.png" width=550 > 
 
@@ -49,7 +49,12 @@ My Bachelor of Science in Information Technology is from Rensselaer Polytechnic 
 ## Personal Interests
 
 <img src="assets/kayak.png" width=280> <img src="assets/bike.png" width=175> <img src="assets/hike.png" width=280>
+
+<br></br>
+<a href="https://carolinatails.org/pet-star-search/" target="_blank">My dog Mulligan was featured in "Carolina Tails," a Charleston Animal Society Publication.</a>
 <a href="https://carolinatails.org/pet-star-search/"><img src="assets/mulligan.png" width=750>
+
+
 
 ## What characteristics will I bring to your team?
 
