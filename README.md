@@ -41,7 +41,7 @@ My Bachelor of Science in Information Technology is from Rensselaer Polytechnic 
 
 ## Certifications
 
-<img src="assets/asep.png" width=160> <img src="assets/model-builder.png" width=300> 
+<img src="assets/CSEP.png" width=160> <img src="assets/model-builder.png" width=300> 
 
 
 
